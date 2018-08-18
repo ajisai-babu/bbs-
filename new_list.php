@@ -9,7 +9,7 @@ $que=mysqli_query($conn,$sql);
 <html>
 <head>
     <meta charset="utf-8">
-    <title>PHP中文网</title>
+    <title>PHP</title>
     <style>
         table{
             margin-top: 10px;
